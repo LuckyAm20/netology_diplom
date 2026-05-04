@@ -7,3 +7,6 @@ jupyter
 pyarrow
 gdown
 keras
+meteostat<2.0
+holidays
+seaborn
